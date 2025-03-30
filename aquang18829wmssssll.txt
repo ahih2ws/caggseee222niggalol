@@ -176,10 +176,9 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/skibiditoiletgojo/Hai
   })
 
 AddButton(Tab1o, {
-     Name = "xeterv2",
+     Name = "min xeter",
     Callback = function()
-getgenv().Version = "V2"
-loadstring(game:HttpGet("https://raw.githubusercontent.com/LuaCrack/Loader/main/Xeter.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/LuaCrack/Min/refs/heads/main/MinCE"))()
  end
   })
 
